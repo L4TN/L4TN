@@ -1,5 +1,5 @@
 
-### Hi 👋  , I am Matheus 
+### Hi 👋  , I am Matheus 🤓
 I'm an IT developer graduating looking for the first opportunity and project collaboration, I'm seeing a little bit of everything from JS frameworks, Python, PowerBI to SQL Sever and Azure.
 - 🔭 I’m currently working on AZ900 and AI900 (also, I am brushing up my data structures and algorithms skills regularly).  
 - 🌱 I’m currently learning C and Python using VSCode and seeing Udemy Courses.  
