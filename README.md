@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus nerd_face</h1>
+<h1 align="center">Hi 👋, I'm Matheus :nerd_face:</h1>
 <h3 align="center">I'm an IT developer graduating looking for the first opportunity and project collaboration, I'm seeing a little bit of everything from .NET, Python, PowerBI to SQL Sever and Azure.</h3>
 
 - 🔭 I’m currently working on **AZ900 and AI900 (also, I am brushing up my data structures and algorithms skills regularly)computer.**
