@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AZ900 and AI900 (also, I am brushing up my data structures and algorithms skills regularly)computer.**
 
-- 🌱 I’m currently learning **C and Python using VSCode and seeing Udemy Courses.**
+- 🌱 I’m currently learning **C and Python using VSCode and seeing Udemy Courses/DIO.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
