@@ -44,10 +44,6 @@ I have been fascinated with computing since childhood and currently I have dedic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4TN&show_icons=true&theme=tokyonight)
-
-[![L4TN](https://github-readme-stats.vercel.app/api/top-langs/?username=L4TN&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/L4TN/)
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<h4 align="center">
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
