@@ -1,18 +1,101 @@
-<h1 align="center">Hi 👋, I'm Matheus :nerd_face:</h1>
-<h3 align="center">I'm an IT developer graduating looking for the first opportunity and project collaboration, I'm seeing a little bit of everything from .NET, Python, PowerBI to SQL Sever and Azure.</h3>
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 🔭 I’m currently working on **AZ900 and AI900 (also, I am brushing up my data structures and algorithms skills regularly)computer.**
+<hr>
 
-- 🌱 I’m currently learning **C and Python using VSCode and seeing Udemy Courses/DIO.**
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/L4TN)](https://www.linkedin.com/in/matt-sousa-dias/)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://github.com/L4TN)](https://dev.to/latn)
+[![Dev.to Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/L4TN)](https://medium.com/@l4tn)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matt-sousa-dias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matt-sousa-dias/" height="30" width="40" /></a>
-<a href="https://medium.com/@l4tn.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@l4tn.medium.com/" height="30" width="40" /></a>
-<a href="https://discord.gg/L4TN#1560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="L4TN#1560" height="30" width="40" /></a>
-</p>
+</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">  <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4tn&show_icons=true&locale=en" alt="l4tn" /></p>
+Hello, I'm Matheus ! 🇧🇷
+<br>
+
+</h3>
+
+```
+Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
+I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a fullstack dev.
+```
+## Technologies that i am currently studying 💻
+
+  - C#
+  - Git
+  - .NET
+  - Azure 
+  - Golang
+  - Docker
+  - GNU/Linux
+
+## Some facts about me 👨🏻‍💻
+
+- I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
+
+- I'm studying Computer Science at CS50. 💻
+
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4TN&show_icons=true&theme=tokyonight)
+
+[![L4TN](https://github-readme-stats.vercel.app/api/top-langs/?username=L4TN&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/L4TN/)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/L4TN)](https://www.linkedin.com/in/matt-sousa-dias/)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://github.com/L4TN)](https://dev.to/latn)
+[![Dev.to Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/L4TN)](https://medium.com/@l4tn)
+
+</h4>
+
+<h3 align="center">  <br>
+
+Hello, I'm Matheus ! 🇧🇷
+<br>
+
+</h3>
+
+```
+Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
+I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a fullstack dev.
+```
+## Technologies that i am currently studying 💻
+
+  - C#
+  - Git
+  - .NET
+  - Azure 
+  - Golang
+  - Docker
+  - GNU/Linux
+
+## Some facts about me 👨🏻‍💻
+
+- I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
+
+- I'm studying Computer Science at CS50. 💻
+
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L4TN&show_icons=true&theme=tokyonight)
+
+[![L4TN](https://github-readme-stats.vercel.app/api/top-langs/?username=L4TN&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/L4TN/)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
