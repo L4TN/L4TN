@@ -38,7 +38,7 @@ I have been fascinated with computing since childhood and currently I have dedic
 - I'm studying Computer Science at CS50. 💻
 
 
-## Meus dados no Github
+## My data on Github
 
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
