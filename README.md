@@ -21,20 +21,20 @@ Hello, I'm Matheus ! 🇧🇷
 Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
 I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a fullstack dev.
 ```
+
 ## Technologies that i am currently studying 💻
 
-  - C#
-  - Git
-  - .NET
-  - Azure 
+  - Python
   - Golang
-  - Docker
+  - C# .NET
   - GNU/Linux
+  - Azure Cloud  
+  - Git, Makefile and Docker
 
 ## Some facts about me 👨🏻‍💻
 
 - I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
-
+- I love science fiction literature, like Blade Runner, Foundation and Dune.
 - I'm studying Computer Science at CS50. 💻
 
 
