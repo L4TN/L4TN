@@ -35,8 +35,8 @@ I have been fascinated with computing since childhood and currently I have dedic
 
 - I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
 - I love science fiction literature, like Blade Runner, Foundation and Dune.
-- I'm studying Computer Science at CS50 MIT, because i believe that the basis is key to mastering skills💻
-- I love RPG Tabletop like DnD and Call of Cthulhu
+- I'm studying Computer Science at CS50 MIT, because i believe that the basis is key to mastering skills. 💻
+- I love RPG Tabletop like DnD and Call of Cthulhu. 🎲
 
 ## My data on Github
 
