@@ -19,7 +19,7 @@ Hello, I'm Matheus ! 🇧🇷
 
 ```
 Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
-I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a fullstack dev.
+I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a Fullstack Dev.
 ```
 
 ## Technologies that i am currently studying 💻
