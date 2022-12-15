@@ -25,10 +25,9 @@ I have been fascinated with computing since childhood and currently I have dedic
 ## Technologies that i am currently studying 💻
 
   - Python
-  - Golang
+  - Angular and Typescript
   - C# .NET
-  - GNU/Linux
-  - Azure Cloud  
+  - Azure Cloud, Azure DevOps
   - Git, Makefile and Docker
 
 ## Some facts about me 👨🏻‍💻
