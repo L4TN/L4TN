@@ -12,7 +12,7 @@
 
 <h3 align="center">  <br>
 
-Hello, I'm ̶L̶4̶T̶N̶ Matheus ! 🇧🇷
+Hello, I'm ̶L̵4̵T̵N̵  Matheus! 🇧🇷
 <br>
 
 </h3>
@@ -24,12 +24,10 @@ I have been fascinated with computing since childhood and currently I have dedic
 
 ## Technologies and Frameworks that i am currently studying 💻
 
-  - Python
-  - Angular and Typescript/Javascript
-  - C# .NET
-  - Azure Cloud (Azure DevOps, AZ900)
+  - Python, Angular and Typescript/Javascript
+  - C# .NET Azure Cloud (Azure DevOps, AZ900)
   - Git and Makefile
-  - DevExpress and Nebular (EVA Design System)
+  - DevExpress and Nebular
 
 ## Some facts about me 👨🏻‍💻
 
