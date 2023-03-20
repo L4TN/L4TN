@@ -12,7 +12,7 @@
 
 <h3 align="center">  <br>
 
-Hello, I'm ̶L̵4̵T̵N̵  Matheus! 🇧🇷
+Hello, I'm ̶L̵4̵T̵N̵  !
 <br>
 
 </h3>
@@ -32,10 +32,11 @@ I have been fascinated with computing since childhood and currently I have dedic
 ## Some facts about me 👨🏻‍💻
 
 - I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
-- I love Sci-Fi, like Blade Runner, Foundation, Dune, Issac Asimov books etc.
 - I'm studying Computer Science at CS50 MIT,  because i believe that the basis is key to mastering skills. 💻
 - I like coding interviews questions about Data Structures and Algorithm Analysis.
+- I love Sci-Fi, like Blade Runner, Foundation, Dune, Issac Asimov books etc.
 - I love RPG Tabletop like DnD and Call of Cthulhu. 🎲
+
 
 ## My data on Github
 
@@ -56,32 +57,6 @@ I have been fascinated with computing since childhood and currently I have dedic
 </h4>
 
 <h3 align="center">  <br>
-
-Hello, I'm Matheus ! 🇧🇷
-<br>
-
-</h3>
-
-```
-Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
-I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a fullstack dev.
-```
-## Technologies that i am currently studying 💻
-
-  - C#
-  - Git
-  - .NET
-  - Azure 
-  - Golang
-  - Docker
-  - GNU/Linux
-
-## Some facts about me 👨🏻‍💻
-
-- I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
-
-- I'm studying Computer Science at CS50. 💻
-
 
 ## Meus dados no Github
 
