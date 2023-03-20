@@ -25,16 +25,14 @@ I have been fascinated with computing since childhood and currently I have dedic
 ## Technologies and Frameworks that i am currently studying 💻
 
   - Python, Angular and Typescript/Javascript
-  - C# .NET Azure Cloud (Azure DevOps, AZ900)
-  - Git and Makefile
-  - DevExpress and Nebular
+  - C# .NET and Azure
+  - Git, DevExpress and Nebular
 
 ## Some facts about me 👨🏻‍💻
 
-- I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
-- I'm studying Computer Science at CS50 MIT,  because i believe that the basis is key to mastering skills. 💻
-- I like coding interviews questions about Data Structures and Algorithm Analysis.
-- I love Sci-Fi, like Blade Runner, Foundation, Dune, Issac Asimov books etc.
+- I love to know new things, work in groups and get new experiences. I want to work around the world, improving my English and meet new cultures, people and have new experiences. 😄
+- I like coding interviews questions about Data Structures and Algorithm Analysis because i believe that the basis is key to mastering skills. 💻
+- I really appreciate Sci-Fi, like Blade Runner, Foundation, Dune, Cyberpunk, and above all, Solarpunk.
 - I love RPG Tabletop like DnD and Call of Cthulhu. 🎲
 
 
