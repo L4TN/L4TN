@@ -12,29 +12,31 @@
 
 <h3 align="center">  <br>
 
-Hello, I'm Matheus ! 🇧🇷
+Hello, I'm ̶L̶4̶T̶N̶ Matheus ! 🇧🇷
 <br>
 
 </h3>
 
 ```
 Student of Systems Analysis and Development at FATEC SP - Faculty of Technology of the State of São Paulo,
-I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a Fullstack Dev.
+I have been fascinated with computing since childhood and currently I have dedicated myself to becoming a better Fullstack Dev.
 ```
 
-## Technologies that i am currently studying 💻
+## Technologies and Frameworks that i am currently studying 💻
 
   - Python
-  - Angular and Typescript
+  - Angular and Typescript/Javascript
   - C# .NET
-  - Azure Cloud, Azure DevOps
-  - Git, Makefile and Docker
+  - Azure Cloud (Azure DevOps, AZ900)
+  - Git and Makefile
+  - DevExpress and Nebular (EVA Design System)
 
 ## Some facts about me 👨🏻‍💻
 
 - I love to know new things, work in groups and get new experiences, I want to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
-- I love science fiction literature, like Blade Runner, Foundation and Dune.
-- I'm studying Computer Science at CS50 MIT, because i believe that the basis is key to mastering skills. 💻
+- I love Sci-Fi, like Blade Runner, Foundation, Dune, Issac Asimov books etc.
+- I'm studying Computer Science at CS50 MIT,  because i believe that the basis is key to mastering skills. 💻
+- I like coding interviews questions about Data Structures and Algorithm Analysis.
 - I love RPG Tabletop like DnD and Call of Cthulhu. 🎲
 
 ## My data on Github
